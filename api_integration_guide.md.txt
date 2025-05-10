@@ -1,0 +1,56 @@
+#  API Integration Guide – Mantiks in Power BI
+
+This guide explains how to integrate the **Mantiks Job Market API** into your Power BI  for live job data analysis.
+
+---
+
+## 🔑 Step 1: Get Your API Key
+
+1. Visit: [https://mantiks-api.readme.io](https://mantiks-api.readme.io)
+2. Sign up and access your dashboard.
+3. Copy your **API key** from the profile or settings area.
+
+---
+
+## 🌍 Step 2: Choose an API Endpoint
+
+Example endpoint to get jobs in Delhi:https://api.mantiks.ai/jobs?location=Delhi
+
+You can modify parameters like `location`, `skill`, `remote_option`, etc.  
+Refer to [API Documentation](https://mantiks-api.readme.io/reference/getting-started-with-your-api) for all available endpoints.
+
+---
+
+## 📊 Step 3: Load API into Power BI
+
+1. Open **Power BI Desktop**.
+2. Click **Home > Get Data > Web**.
+3. Select **Advanced**.
+4. In *URL Parts*, enter your chosen endpoint:
+https://api.mantiks.ai/jobs?location=Delhi
+5. Click **Add header**.
+- **Key**: `x-api-key`
+- **Value**: `YOUR_API_KEY_HERE` (Paste your key here — DO NOT upload it to GitHub)
+6. Click **OK** to load the data.
+
+---
+
+## 🔄 Step 4: Transform and Format Data
+
+After loading:
+
+- Use the **Power Query Editor**.
+- Expand nested records (click icons next to column names).
+- Rename columns for clarity.
+- Change data types (e.g., salary → number, date → date/time).
+- Close and apply changes.
+
+---
+
+
+Made by [Navya Sambhar]  
+ Email: sambharnavyaa@gmail.com
+
+
+
+

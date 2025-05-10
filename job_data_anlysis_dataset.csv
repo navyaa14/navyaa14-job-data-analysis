@@ -1,0 +1,31 @@
+job_id,job_title,company,location,post_date,skills_required,salary_max,experience,remote_option,company_size
+1,Scrum Master,Infosys,"Mumbai, MH",20-12-2024,"Excel, Selenium, SQL",1029895,5 years,Onsite,10000+
+2,ML Engineer,TCS,"Pune, MH",18-01-2025,"Excel, HTML, AI",711299,5 years,Onsite,10000+
+3,AI Engineer,Accenture,"Bengaluru, KA",06-05-2025,"GCP, Selenium, SQL",2372573,3 years,Remote,1001-5000
+4,Cloud Engineer,HCL,"Chennai, TN",18-03-2025,"Python, CSS, Selenium",2105668,3 years,Hybrid,5001-10000
+5,ML Engineer,Amazon,"Delhi, NCR",08-08-2024,"Python, CSS, Selenium",2915426,3 years,Hybrid,5001-10000
+6,Network Engineer,Zomato,"Pune, MH",16-04-2025,"Node.js, Excel, GCP",1813781,1 years,Onsite,501-1000
+7,Technical Writer,Paytm,"Delhi, NCR",18-06-2024,"AWS, React, SQL",2152651,3 years,Onsite,5001-10000
+8,RPA Developer,Lenskart,"Pune, MH",02-07-2024,"Node.js, SQL, HTML",1626811,2 years,Remote,10000+
+9,System Analyst,Lenskart,"Noida, UP",24-05-2024,"React, AWS, GCP",834620,2 years,Onsite,5001-10000
+10,Technical Writer,Paytm,"Pune, MH",21-01-2025,"Selenium, AI, Docker",1919854,2 years,Hybrid,10000+
+11,Technical Writer,Lenskart,"Delhi, NCR",25-02-2025,"Power BI, SQL, Excel",2954548,5 years,Remote,10000+
+12,Network Engineer,Wipro,"Chennai, TN",17-01-2025,"SQL, HTML, JavaScript",981301,1 years,Onsite,1001-5000
+13,Scrum Master,Flipkart,"Hyderabad, TS",08-07-2024,"Python, CSS, AWS",2563143,5 years,Remote,501-1000
+14,SEO Specialist,Amazon,"Pune, MH",25-05-2024,"Selenium, HTML, GCP",1719145,3 years,Onsite,5001-10000
+15,Security Analyst,Flipkart,"Delhi, NCR",08-05-2025,"Docker, Selenium, Power BI",2699610,2 years,Hybrid,501-1000
+16,Scrum Master,Paytm,"Noida, UP",20-02-2025,"React, GCP, SQL",2862319,5 years,Onsite,5001-10000
+17,Data Scientist,TCS,"Pune, MH",05-11-2024,"Selenium, AWS, GCP",1889807,2 years,Onsite,1001-5000
+18,Network Engineer,Infosys,"Pune, MH",03-09-2024,"AWS, Python, GCP",2834331,2 years,Onsite,10000+
+19,Mobile App Dev,Flipkart,"Bengaluru, KA",12-08-2024,"AWS, AI, CSS",1488346,5 years,Hybrid,1001-5000
+20,RPA Developer,Paytm,"Hyderabad, TS",31-05-2024,"Node.js, React, JavaScript",2770870,4 years,Onsite,1001-5000
+21,AI Engineer,Infosys,"Chennai, TN",29-04-2025,"AI, HTML, Excel",1523658,1 years,Onsite,501-1000
+22,AI Engineer,Infosys,"Mumbai, MH",21-11-2024,"Python, HTML, Excel",1768018,4 years,Onsite,1001-5000
+23,Big Data Engineer,Oracle,"Delhi, NCR",05-01-2025,"GCP, JavaScript, Selenium",2307333,2 years,Onsite,501-1000
+24,SEO Specialist,Wipro,"Chennai, TN",05-10-2024,"CSS, JavaScript, Docker",827210,1 years,Onsite,10000+
+25,Big Data Engineer,Freshworks,"Pune, MH",02-01-2025,"Excel, Selenium, HTML",2481621,2 years,Remote,1001-5000
+26,System Analyst,Accenture,"Noida, UP",01-04-2025,"JavaScript, GCP, HTML",1010658,1 years,Hybrid,501-1000
+27,Back-End,HCL,"Noida, UP",13-02-2025,"CSS, JavaScript, AWS",1496521,4 years,Onsite,1001-5000
+28,Technical Writer,TCS,"Hyderabad, TS",25-12-2024,"Selenium, GCP, AWS",2508443,3 years,Remote,10000+
+29,Product Manager,Zomato,"Bengaluru, KA",18-01-2025,"Java, AI, Docker",2874131,1 years,Hybrid,5001-10000
+30,ML Engineer,TCS,"Delhi, NCR",25-08-2024,"Selenium, AWS, HTML",1260320,1 years,Hybrid,501-1000
